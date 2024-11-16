@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nguyen/mlops_project/spark/mlruns/499420259729431750/fcea75d36a4e43bf9e820ccff6bf9f8c/artifacts
+end_time: 1731760299127
+entry_point_name: ''
+experiment_id: '499420259729431750'
+lifecycle_stage: active
+run_id: fcea75d36a4e43bf9e820ccff6bf9f8c
+run_name: useful-dolphin-49
+run_uuid: fcea75d36a4e43bf9e820ccff6bf9f8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731760229189
+status: 3
+tags: []
+user_id: nguyen

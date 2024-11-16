@@ -1,0 +1,6 @@
+artifact_location: file:///home/nguyen/mlops_project/spark/mlruns/499420259729431750
+creation_time: 1731760228828
+experiment_id: '499420259729431750'
+last_update_time: 1731760228828
+lifecycle_stage: active
+name: MLOps Training Model Experiment
